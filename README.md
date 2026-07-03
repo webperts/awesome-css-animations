@@ -12,3 +12,7 @@
 - [SpinKit](http://tobiasahlin.com/spinkit/) &mdash; loading spinners animated with CSS.
 - [`css-spinner`](https://loading.io/css/) &mdash; pure CSS loaders.
 
+## CSS Tools Generators
+We Tested 40 CSS Tools for Performance and Learning Curve. Here's What Won.
+Including CSS Animation creator tools and articles.
+https://cssawwwards.com
